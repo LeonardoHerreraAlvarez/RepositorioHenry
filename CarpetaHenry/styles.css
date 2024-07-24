@@ -1,6 +1,25 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #e02828;
-    color: #333;
+    background-color: #ae9f9f;
+    color: #111010;
     margin: 20px;
   }
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: blueviolet;
+}
+
+#unordered-list{
+    letter-spacing: 3px;
+}
+
+#ordered-list{
+    text-shadow: gray 1px 0;
+}
+
+
+
